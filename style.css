@@ -17,3 +17,11 @@
     padding: 24 px 0;
     font-size: 24 px;
 }
+.escola-imagem {
+    width:25%
+}
+
+.escola{
+    backgroud-image: linear-gradient(#424E61,#16CFF8);
+    
+}
