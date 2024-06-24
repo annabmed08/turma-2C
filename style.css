@@ -23,5 +23,20 @@
 
 .escola{
     backgroud-image: linear-gradient(#424E61,#16CFF8);
-    
+    color:white;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding: 24px 0;  
+}
+.escola-div-conteudo{
+    width:35%;
+}
+
+.escola0-titulo{
+    padding:24px 0;
+}
+
+p{
+ padding:12px 0; 
 }
