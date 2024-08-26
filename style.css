@@ -74,13 +74,12 @@ padding: 4px 8px;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
 
-.footer{
+.rodape{
     background-color: black;
     text-align: center;
-    padding: 15px 0;
 }
 
-.escola-todos{
+.rodape-imagem{
     height: 60px;
     padding: 12px 0;
 }
