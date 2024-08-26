@@ -16,15 +16,15 @@ width:20%;
     color: white;
     display: flex;
     justify-content: space-around;
-    padding: 24 px 0;
+    padding: 24px 0;
 }
 
 
 .cabecalho-lista-item {
     display: inline-block;
-    margin: 0 16 px;
-    padding: 24 px 0;
-    font-size: 24 px;
+    margin: 0 16px;
+    padding: 24px 0;
+    font-size: 24px;
 }
 .escola-imagem {
     width:25%
@@ -52,7 +52,7 @@ p{
 
 .estudante-icone {
 width: 24px;
-padding: 4 px 8 px;
+padding: 4px 8px;
 }
 
 .estudante-imagem{
@@ -61,12 +61,12 @@ padding: 4 px 8 px;
 
 .estudante.div {
     text-align: center;
-    padding: 16 px 0;
+    padding: 16px 0;
 }
 
 .estudante-titulo {
     text-align: center;
-    padding: 50 px 0;
+    padding: 50px 0;
 }
 
 .escola-todos{
@@ -74,8 +74,13 @@ padding: 4 px 8 px;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
 
-footer{
+.footer{
     background-color: black;
     text-align: center;
     padding: 15px 0;
+}
+
+.escola-todos{
+    height: 60px;
+    padding: 12px 0;
 }
